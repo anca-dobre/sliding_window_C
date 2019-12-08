@@ -1,7 +1,4 @@
-
-	Mentionez ca pe local primesc 78 sau 72 puncte, mereu imi pica testul 3 de la basic, iar pe VM este singurul care nu cicleaza.
-	La stress tests nu am avut nicio problema pe local, iar pe VM nici macar nu ruleaza. Va rog, astfel, sa testati si local tema.  
-	
+  
 
 		send.c:
 	-am implementat functiile:
